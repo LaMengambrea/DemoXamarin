@@ -1,0 +1,13 @@
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\UnitTestProject.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\UnitTestProject.pdb
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\obj\Debug\UnitTestProject.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\UnitTestProject\obj\Debug\UnitTestProject.pdb

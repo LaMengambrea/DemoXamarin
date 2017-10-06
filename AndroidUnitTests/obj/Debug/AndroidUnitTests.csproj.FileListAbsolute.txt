@@ -1,0 +1,13 @@
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\bin\Debug\AndroidUnitTests.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\bin\Debug\AndroidUnitTests.pdb
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\bin\Debug\AndroidUnitTests.AndroidUnitTests.apk
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\bin\Debug\AndroidUnitTests.AndroidUnitTests-Signed.apk
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\AndroidUnitTests.csprojResolveAssemblyReference.cache
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\AndroidUnitTests.csproj.CoreCompileInputs.cache
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\AndroidUnitTests.dll
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\AndroidUnitTests.pdb
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\android\bin\AndroidUnitTests.AndroidUnitTests.apk
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\res\drawable\icon.png
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\res\values\strings.xml
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\R.cs.flag
+D:\Users\Eric\Documents\FreeLance\pAPPelitos\DemoApp\AndroidUnitTests\obj\Debug\uploadflags.txt
